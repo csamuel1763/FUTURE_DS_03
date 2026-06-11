@@ -1,0 +1,8 @@
+Dataset Source:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
+File Used:
+2019-Nov.csv
+
+Dataset Size:
+8.78 GB
